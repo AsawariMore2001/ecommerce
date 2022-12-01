@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ECommerce",
+    "\\ECommerce\\src",
+    "\\ECommerce\\src\\components",
+    "\\ECommerce\\src\\components\\Header",
+    "\\ECommerce\\src\\components\\Helmet",
+    "\\ECommerce\\src\\components\\Layout",
+    "\\ECommerce\\src\\components\\UI",
+    "\\ECommerce\\src\\services",
+    "\\ECommerce\\src\\styles"
+  ],
+  "SelectedNode": "\\ECommerce\\src\\index.js",
+  "PreviewInSolutionExplorer": false
+}
